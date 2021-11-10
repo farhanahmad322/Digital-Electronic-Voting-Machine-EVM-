@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Sura&family=Teko:wght@500&display=swap');
 
 *{
     margin:0px;
@@ -93,4 +93,12 @@ a:hover{
 #logo2{
     margin-right:1px;
 }
+span3{
+
+    font-family: 'Teko', sans-serif;
+    font-size: x-large;
+    margin-top: 6px;
+}
+
+
 
